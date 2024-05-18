@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #d0e9ff;
+}
+
+.title {
+    text-align: center;
+}
+
+h4 {
+    margin-top: 20px;
+    background-color: #87cefa;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+video,
+audio {
+    display: block;
+    margin: 0 auto;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.separator {
+    background-color: #f0f0f0;
+    margin: 20px auto;
+    height: 10px;
+    width: 90%;
+}
+
+a {
+    text-decoration: none;
+    color: #0000EE;
+}
+
+a:hover {
+    text-decoration: underline;
+}

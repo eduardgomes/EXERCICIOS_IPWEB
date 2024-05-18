@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1715627889572-aa53f37b8f01?q=80&amp;w=2069&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    border: 2px solid;
+    border-color: green;
+    width: 27%;
+}
